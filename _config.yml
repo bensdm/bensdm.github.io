@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Benoît Sarrauste de Menthière"
-  avatar           : "assets/images/pp4.jpg"
+  avatar           : "pp4.jpg"
   bio              : "Datascientist"
   location         : "Houston, TX"
   employer         : "Schlumberger"
