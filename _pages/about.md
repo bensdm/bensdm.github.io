@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![](images/cover.jpg)
 Welcome to my personal page, on which you can find different project I worked on.
 
 Graduate from Arts et Métiers ParisTech (French global engineering school), I am finishing my post master degree at Telecom ParisTech in "big data and machine learning".
