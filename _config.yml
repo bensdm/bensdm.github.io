@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Benoît de Menthière"
+title                    : "Benoît de M,n kenthière"
 title_separator          : "-"
 description              : &description "Passionate about new technology especially machine learning, I like to implement state of the art research paper to solve real world problem. Currently intern at Schlumberger Houston until 12/2019, I remain open to any opportunity for the future"
 url                      : https://bensdm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
