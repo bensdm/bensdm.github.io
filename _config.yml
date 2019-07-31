@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Benoît de M,n kenthière"
+title                    : "My blog"
 title_separator          : "-"
 description              : &description "Passionate about new technology especially machine learning, I like to implement state of the art research paper to solve real world problem. Currently intern at Schlumberger Houston until 12/2019, I remain open to any opportunity for the future"
 url                      : https://bensdm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -114,6 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  kaggle           : "bensdm" 
 
 
 # Reading Files
