@@ -28,7 +28,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Benoît Sarrauste de Menthière"
-  avatar           : "assets/image/pp.jpg"
+  avatar           : "assets/images/pp.jpg"
   bio              : "Datascientist"
   location         : "Houston, TX"
   employer         :
