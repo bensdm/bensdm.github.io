@@ -80,13 +80,13 @@ analytics:
 # Site Author
 author:
   name             : "Benoît Sarrauste de Menthière"
-  avatar           : "assets/images/pp.jpg"
+  avatar           : "assets/images/pp4.jpg"
   bio              : "Datascientist"
   location         : "Houston, TX"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  employer         : "Schlumberger"
+  pubmed           :
+  googlescholar    :
+  email            : "b.sdementhiere@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,13 +102,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "benoit-de-menthiere"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
